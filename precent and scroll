@@ -1,0 +1,13 @@
+/*Paste in  הגדרות עמוד css*/
+/*change 400% to how much % you needs*/
+/*change hidden to scroll/hidden*/
+
+.my-hs{
+	width: 400% !important;
+	max-width: 400% !important;
+	transition: 0s !important;
+}
+
+html, body {
+	overflow-x: hidden;
+}
